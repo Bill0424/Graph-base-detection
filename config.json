@@ -1,0 +1,13 @@
+{
+  "graph_file": "Data/graph_data.json",
+
+  "user_file":  "Data/user_data.json",
+
+  "trust_score": 1000,
+
+  "select_from_top": 10,
+
+  "total_select": 60,
+
+  "attack_num": 10000
+}
